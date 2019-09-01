@@ -1,3 +1,2 @@
-# project1
-https://twitter.com/lanreyolawumi/status/1165392844489707523?s=09
-https://lucid.blog/olanrewajuolufemi/post/1566685404
+# project1 branch1
+https://lucid.blog/olanrewajuolufemi/post/web-design-is-more-interesting-with-css-16f
